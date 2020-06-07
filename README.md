@@ -38,9 +38,3 @@ The app is having mainly three sections:
 - [Android KTX](https://developer.android.com/kotlin/ktx)
 - [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
-
-## Download App
-[Click here to Download the app](https://androidfilehost.com/?fid=4349826312261824007)
-<p align="center">
-  <h3>Proudly :muscle: made in <b><a href="https://kotlinlang.org/">Kotlin</a></b></h3>
-</p>
