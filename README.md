@@ -1,4 +1,4 @@
-# Mathare(BY 18MIS0015,18MIS0046,18MIS0065)
+# Maathare(BY 18MIS0015,18MIS0046,18MIS0065)
 Women safety app(Maathare)
 # Women Safety App
 <h1 align="center">
