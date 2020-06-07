@@ -5,7 +5,7 @@ Women safety app(Maathare)
   <br>
   <img src="https://github.com/ShubhamYGS/WomenSafetyApp/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Foco" width="160">
 </h1>
-<h4 align="center">This app is a made during an event organized by Google Devs India. <a href="goo.gle/30DaysOfKotlin" target="_blank">#30DaysOfKotlin</a>.</h4>
+<h4 align="center">This app is a made BY sabharish, ashwin,dinesh </h4>
 
 ## Getting Started
 The app is having mainly three sections:
