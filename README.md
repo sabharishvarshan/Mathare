@@ -39,5 +39,5 @@ The app is having mainly three sections:
 - [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 ## Download App
-[Click here to Download the app]https://drive.google.com/file/d/1t-JnnVAOiM-IQOBTYxAX2q-uo8dz1CLO/view?usp=sharing
+[Click here to Download the app](https://drive.google.com/file/d/1t-JnnVAOiM-IQOBTYxAX2q-uo8dz1CLO/view?usp=sharing)
 <p align="center">
